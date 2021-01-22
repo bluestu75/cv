@@ -55,21 +55,21 @@ a:hover{
   position: absolute;
   height: 96px;
   top: 30px;
-  right: 400px;
+  right: 20%;
 }
 
 .bottom-cloud {
   position: absolute;
   height: 96px;
-  left: 250px;
+  left: 10%;
 }
 
 .donut {
   position: absolute;
   height: 950px;
   width: 950px;
-  right: 460px;
-  top: 30px;
+  right: 25%;
+  top: 7%;
 }
 
 .profile {

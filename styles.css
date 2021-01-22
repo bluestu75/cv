@@ -6,8 +6,6 @@ body {
   font-family: 'Crete Round', serif;
 }
 
-
-
 h1 {
   color: slategray;
   font-size: 5.2rem;
@@ -31,6 +29,7 @@ h3 {
 p {
   line-height: 2;
 }
+
 hr {
   border-style: dotted none none;
   height: 10px;
@@ -38,17 +37,21 @@ hr {
   border-color: gray;
   border-width: 5px;
 }
-a{
+
+a {
   text-decoration: none;
 }
-a:hover{
+
+a:hover {
   color: gray;
 }
+
 .top-container {
+  align-content: center;
   background-color: skyblue;
   position: relative;
   padding-top: 400px;
-  padding-bottom: 400px
+  padding-bottom: 100px
 }
 
 .top-cloud {
@@ -65,11 +68,11 @@ a:hover{
 }
 
 .donut {
-  position: absolute;
-  height: 950px;
-  width: 950px;
-  right: 25%;
-  top: 7%;
+  position: relative;
+  height: 500px;
+
+
+
 }
 
 .profile {
@@ -109,8 +112,6 @@ a:hover{
   padding-top: 20px;
   padding-bottom: 60px;
 }
-
-
 
 .jack {
   border-radius: 50%;
@@ -171,8 +172,6 @@ a:hover{
   border-radius: 20px;
   text-decoration: none;
 }
-
-
 
 .footer-link {
   margin-right: 2rem;
